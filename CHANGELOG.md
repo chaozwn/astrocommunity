@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.1](https://github.com/AstroNvim/astrocommunity/compare/v4.0.0...v4.0.1) (2023-09-02)
+
+
+### Bug Fixes
+
+* **hardtime-nvim:** disable hardtime-nvim on dressing-nvim fts ([#549](https://github.com/AstroNvim/astrocommunity/issues/549)) ([177f8f4](https://github.com/AstroNvim/astrocommunity/commit/177f8f4dd0cf8e0e00c52f651e88dc5b7dcde63c))
+
 ## [4.0.0](https://github.com/AstroNvim/astrocommunity/compare/v3.6.0...v4.0.0) (2023-08-30)
 
 
